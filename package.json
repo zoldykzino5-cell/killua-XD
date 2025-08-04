@@ -1,7 +1,7 @@
 {
   "name": "MALVIN XD",
-  "version": "1.0.0",
-  "description": "0NE OF THE BEST BOT IN THE UNIVERSE",
+  "version": "1.0.2",
+  "description": "Automated whatsapp md bot created using nodejs and baileys lib",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -10,7 +10,7 @@
     "restart": "pm2 restart MALVIN-XD"
   },
   "dependencies": {
-   "@whiskeysockets/baileys": "github:EdderBot02/bail",
+    "@whiskeysockets/baileys": "github:EdderBot02/bail",  
     "axios": "^1.7.9",
     "@adiwajshing/keyed-db": "latest",
     "@dark-yasiya/yt-dl.js": "1.0.5",
@@ -19,6 +19,7 @@
     "@dark-yasiya/scrap":"1.0.1",    
     "acrcloud": "^1.4.0",
     "adm-zip": "^0.5.16",
+    "lolcatjs": "^2.4.1",
     "api-dylux": "latest",
     "btch-downloader": "^2.2.9",
     "better-sqlite3": "*",
@@ -48,7 +49,7 @@
     "pdf-lib": "^1.17.1",
     "pdfkit": "^0.14.0",
     "pino": "^7.0.5",
-    "pm2": "latest",
+    "pm2": "latest",    
     "qrcode-reader": "^1.0.4",
     "qrcode-terminal": "^0.12.0",
     "ruhend-scraper": "8.0.3",
