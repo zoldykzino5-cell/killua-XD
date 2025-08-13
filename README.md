@@ -1,13 +1,13 @@
 
 
-</div>
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" />
-</p>
 
-<p align="center">
-  <img src="https://files.catbox.moe/qumhu4.jpg" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=200&color=gradient&text=WE'LL%20COME%20🥳&animation=blinking&fontAlign=36&fontAlignY=36&descAlign=62&reversal=false&textBg=false" width="100%">
+</div>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=00FF00&center=true&width=1150&height=200&lines=PLEASE-FORK-STAR-BOT-REPO" alt="Typing SVG" /></a>
+  </div>
+<a><img src='https://i.ibb.co/bgfX1qBy/malvin-xd.jpg'/></a>
 
 <!-- 📊 STATS & HERO ANIMATION (Updated Colors) -->
 <div align="center">
@@ -27,13 +27,27 @@
   </p>
 
 </div>
+<div align="center">
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+MALVIN+XD+BETTER+OPTION;🔥+THE+MOST+POWERFUL+WHATSAPP+BOT;💻+DEVELOPER+BY+MR+XDKING2;🚀+MALVIN-XD+SOLUTIONS;🌈+FAST+⚡+SECURE+🔒+RELIABLE+✅" alt="Typing Animation">
+</h1>
+
+
+***BOT FEATURE ⤵️***
+
+| Menu ⁠➜ | Status Save + Send | Group | ChatBot | Downloading | Antidelete | Ai | Viewonce | Fun | Status Reply | Status Reacts | HeartReacts | Autoreacts | Call Rejecter 
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Work ➜ |✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
 
 
 # MALVIN-XD Setup
 
 ### 🚀 Fork the Repository
 
-To start, fork this repository to your own GitHub account by clicking the button below:
+<p align='center'>
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
 
 <a href="https://github.com/XdKing2/MALVIN-XD/fork"><img src="https://img.shields.io/github/forks/XdKing2/MALVIN-XD?style=for-the-badge&logo=github&color=4c1&label=Fork%20MALVIN-XD" alt="Fork MALVIN-XD" /></a>
 
@@ -47,19 +61,19 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
   <img src="https://i.imgur.com/LyHic3i.gif" alt="Authentication Flow Preview" />
 </p>
 
-> 🟢 Pair Code Authentication
+> 📲 Pair Code Authentication
 
 [![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://malvinxd-pairsession.onrender.com/pair)
 
-> 🔵 QR Code Authentication
+> 📱 QR Code Authentication
 
 [![Scan QR Code](https://img.shields.io/badge/Scan%20QR%20Code-000000?style=for-the-badge&logo=react&logoColor=white)](https://malvinxd-pairsession.onrender.com/qr)
 
 
 
-#### 🧩 Session App
+> 📲 Starcore pair
 
-[![Session App](https://img.shields.io/badge/Session%20App-000000?style=for-the-badge&logo=react&logoColor=white)](https://malvinxd-pairsession.onrender.com/)
+[![Starcore Session](https://img.shields.io/badge/Session%20App-000000?style=for-the-badge&logo=react&logoColor=white)](https://starcore-pairing.onrender.com/pair/)
 
 
 
@@ -68,64 +82,32 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
 </p>
 
 
-
-
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="65%" />
-</p>
-
-<p align="center" style="color:#777;font-size:13px;">
-  <img src="https://github.com/XdKing2/MALVIN-XD/blob/main/assets/warning.gif?raw=true" width="15" />
-  <em>Having connection issues? Try using a VPN.</em>
-</p>
-
+## _📡 DEPLOYMENT_
 
 <div align="center">
-  <img src="https://github.com/XdKing2/MALVIN-XD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
+  <table>
+    <tr>
+      <td><a href="https://dashboard.heroku.com/new-app?template=https://github.com/XdKing2/MALVIN-XD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF"/></a></td>
+      <td><a href="https://host.talkdrove.com/dashboard/deploy-bot/75" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-A52A2A?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=XdKing2/MALVIN-XD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
+      <td><a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/Coming soon VPS-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+  </table>
 </div>
 
-<h2 align="center">🚀 Deploy MALVIN-XD Anywhere</h2>
 
-<p align="center">Choose a platform and deploy instantly:</p>
 
-<div align="left" style="margin-left: 20px; font-size: 1.05em; line-height: 2.2em;">
-
-🔵 <b>Heroku:</b>  
-<a href="https://dashboard.heroku.com/new?template=https://github.com/XdKing2/MALVIN-XD" target="_blank">
-  <img src="https://img.shields.io/badge/Heroku-Deploy-7A3E9D?style=flat-square&logo=heroku&logoColor=white" alt="Heroku">
-</a>
-
-💗 <b>Koyeb:</b>  
-<a href="https://app.koyeb.com/services/deploy?type=git&repository=XdKing3/MALVIN-XD" target="_blank">
-  <img src="https://img.shields.io/badge/Koyeb-Deploy-FF2D95?style=flat-square&logo=koyeb&logoColor=white" alt="Koyeb">
-</a>
-
-⚫ <b>Railway:</b>  
-<a href="https://railway.app/new" target="_blank">
-  <img src="https://img.shields.io/badge/Railway-Deploy-121212?style=flat-square&logo=railway&logoColor=white" alt="Railway">
-</a>
-
-💚 <b>Render:</b>  
-<a href="https://dashboard.render.com/web/new" target="_blank">
-  <img src="https://img.shields.io/badge/Render-Deploy-00C7A9?style=flat-square&logo=render&logoColor=white" alt="Render">
-</a>
-
-💎 <b>Netlify:</b>  
-<a href="https://app.netlify.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Netlify-Deploy-00ADB5?style=flat-square&logo=netlify&logoColor=white" alt="Netlify">
-</a>
-
-🟡 <b>TalkDrove:</b>  
-<a href="https://talkdrove.com" target="_blank">
-  <img src="https://img.shields.io/badge/TalkDrove-Deploy-6B47FF?style=flat-square&logo=github&logoColor=white" alt="TalkDrove">
-</a>
-
-</div>
 
 <br>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
- <h4 align="center">9. Workflow</h4>
+ <h4 align="center"> Workflow</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
 
@@ -194,7 +176,9 @@ jobs:
 
 > ✅ Deploy to any panel service of your choice.
 
----
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
+</p>
 
 ### 🛠️ Recommended Hosting Panels
 
@@ -229,7 +213,7 @@ jobs:
   <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
 </p>
 
----
+
 
 ## ⚠️ DISCLAIMER
 
@@ -241,7 +225,7 @@ jobs:
   <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
 </p>
 
----
+
 
 ## 💡 CREDITS & CONTRIBUTORS
 
@@ -250,7 +234,9 @@ jobs:
 - 👤 [Malvin King](https://github.com/XdKing2) — Creator & Maintainer  
   - Core features, plugin manager, deployment tools, performance optimization
 
----
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
+</p>
 
 ## 🗃️ PROJECT ARCHITECTS
 
@@ -264,7 +250,9 @@ jobs:
   <img src="https://github.com/XdKing2/MALVIN-XD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
 </div>
 
----
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
+</p>
 
 ## 🌐 JOIN OUR SUPPORT CHANNELS
 
@@ -277,21 +265,37 @@ jobs:
   <img src="https://i.imgur.com/LyHic3i.gif" alt="footer divider"/>
 </p>
 
----
 
-## 👑 MALVIN STATUS
+
+</div>
+<!-- Glowing Header -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
+
+## 🤖 _MALVIN-XD STATUS_
 
 ```diff
 + Project Status: Active
-! Version: 1.0.0 Neon Edition
-# License: APACHE
+! Version: V.1.5.0 Neon Edition
+# License: MIT
 ```
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+<!-- New Animated Contributors -->
+<div style="margin-top:20px">
+
+[![Contributors](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=500&lines=THANKS+TO+ALL+CONTRIBUTORS+%F0%9F%99%8F;SPECIAL+THANKS+TO+OUR+STAR+SUPPORTERS+%E2%AD%90)](https://github.com/XdKing2/MALVIN-XD/graphs/contributors)
+
+</div>
+
+</div>
 
 <p align="center"> <img src="https://i.imgur.com/LyHic3i.gif" /> </p> <h2 align="center">💫 Thanks to our loyal followers</h2> <p align="center"> <a href="https://github.com/XdKing2/MALVIN-XD/stargazers"> <img src="http://reporoster.com/stars/dark/XdKing2/MALVIN-XD" alt="Stargazers repo roster for @XdKing2/MALVIN-XD"> </a> </p> <p align="center"> <a href="https://github.com/XdKing2/MALVIN-XD/network/members"> <img src="http://reporoster.com/forks/dark/XdKing2/MALVIN-XD" alt="Forkers repo roster for @XdKing2/MALVIN-XD"> </a> </p> 
 
-
-
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 
 
