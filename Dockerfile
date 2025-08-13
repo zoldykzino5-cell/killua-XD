@@ -1,14 +1,16 @@
 FROM node:lts-buster
-USER root
-RUN apt-get update && \
-    apt-get install -y ffmpeg webp git && \
-    apt-get upgrade -y && \
-    rm -rf /var/lib/apt/lists/*
-USER node
-RUN git clone https://github.com/XdKing2/MALVIN-XD /home/node/MALVIN-XD
-WORKDIR /home/node/MALVIN-XD
-RUN chmod -R 777 /home/node/MALVIN-XD/
-RUN yarn install --network-concurrency 1
+
+# Set working directory
+WORKDIR /app
+
+# Copy all local files to container
+COPY . .
+
+# Install dependencies
+RUN npm install && npm install -g pm2
+
+# Expose the port your app listens on
 EXPOSE 7860
-ENV NODE_ENV=production
+
+# Start the app
 CMD ["npm", "start"]
