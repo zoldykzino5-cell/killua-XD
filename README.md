@@ -180,7 +180,7 @@ jobs:
   <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
 </p>
 
-### 🛠️ Recommended Hosting Panels
+### 🛠️ VPS / Hosting Panels
 
 <div align="center">
   <table>
