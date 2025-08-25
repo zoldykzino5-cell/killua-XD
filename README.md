@@ -206,8 +206,7 @@ jobs:
   </table>
 </div>
 
-> 💡 Ensure your panel has **at least 1GB RAM** for fast response 
-> 🔧 _Working on MALVIN-XD compatibility with free-tier panel hosts_
+> 🔧 _Fixed panel issues Enjoy...deploy to any free tier servers etc_
 
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
